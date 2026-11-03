@@ -1,8 +1,6 @@
-# Spotter legal pages
+# Spotter legal pages (moved)
 
-Privacy Policy and Terms of Use for the Spotter iOS app, in Korean, English and Japanese.
+The Privacy Policy and Terms of Use now live at https://spotter.win/legal/. These pages only forward there.
 
-- https://dranent.github.io/spotter-legal/privacy.html
-- https://dranent.github.io/spotter-legal/terms.html
-
-Generated from `scripts/build-legal.py` in the app's repository; edit there, not here.
+- https://spotter.win/legal/privacy.html
+- https://spotter.win/legal/terms.html
